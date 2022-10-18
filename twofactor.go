@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/Davincible/goinsta/v3/utilities"
+	"github.com/akshedu/goinsta/v3/utilities"
 )
 
 type TwoFactorInfo struct {

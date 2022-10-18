@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Davincible/goinsta/v3/utilities"
+	"github.com/akshedu/goinsta/v3/utilities"
 )
 
 // Instagram represent the main API handler
